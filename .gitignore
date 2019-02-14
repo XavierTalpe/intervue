@@ -1,0 +1,11 @@
+# IDE files
+.idea
+*.iml
+.vscode
+
+# NPM
+node_modules
+package-lock.json
+
+.nuxt
+*.log
